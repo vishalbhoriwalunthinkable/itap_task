@@ -1,0 +1,20 @@
+.View__UserList {
+  width: 100%;
+}
+
+.View__UserList__Container {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+  width: 80%;
+}
+
+.Item__Not__Found {
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+}

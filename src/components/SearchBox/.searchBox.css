@@ -1,0 +1,10 @@
+.Components__SearchBox {
+  padding: 10px;
+  width: 80%;
+}
+
+::placeholder {
+  color: darkgray;
+  opacity: 1;
+  font-size: 17px;
+}

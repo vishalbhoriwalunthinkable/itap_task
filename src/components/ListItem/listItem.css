@@ -1,0 +1,36 @@
+.Components__ListItem {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.ListItem__Index {
+  color: darkgray;
+  padding: 2px;
+}
+
+.ListItem__Name {
+  font-weight: bold;
+  padding: 2px;
+}
+
+.ListItem__UserName {
+  color: rgb(133, 202, 225);
+}
+
+.List__Details {
+  margin-left: 25px;
+  padding: 5px;
+  border-radius: 5px;
+  width: 70%;
+  background: lightgray;
+}
+
+.List__Details__Heading {
+  color: rgb(89, 153, 221);
+}
+
+.List__Details__Value {
+  color: blue;
+  text-decoration: underline;
+  font-weight: lighter;
+}
