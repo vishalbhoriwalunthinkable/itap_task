@@ -49,3 +49,7 @@ Builds the app for production to the `build` folder
 ## Warning
 
 We are also pushing the .env file to git for testing purposes otherwise its not advisable to push these kind of sensitive files to git
+
+## Deploy
+
+App is deployed at: https://vishalbhoriwalunthinkable.github.io/itap_task
